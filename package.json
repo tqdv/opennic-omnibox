@@ -1,0 +1,16 @@
+{
+  "name": "opennic-omnibox",
+  "description": "",
+  "version": "1.0.0",
+  "license": "Artistic-2.0",
+  "author": "Tilwa Qendov <tilwa.qendov@gmail.com> (http://kawa.tf)",
+  "main": "background.js",
+  "devDependencies": {
+    "web-ext": "^4",
+    "webextension-polyfill": "^0.6.0"
+  },
+  "scripts": {
+    "run": "web-ext run",
+	"build": "web-ext build"
+  }
+}
