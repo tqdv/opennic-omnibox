@@ -1,6 +1,6 @@
 # OpenNIC (enabled) omnibox
 
-Prevent Chrome from searching the OpenNIC URL you just entered.
+Prevent Chrome from searching the OpenNIC url you just entered.
 This is because Chrome doesn't (want to) recognize OpenNIC TLDs.
 
 ## Installation
